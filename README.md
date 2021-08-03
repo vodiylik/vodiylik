@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![vodiylik's github stats](https://github-readme-stats.vercel.app/api?username=vodiylik&show_icons=true&theme=cobalt)
+![vodiylik's github stats](https://github-readme-stats.vercel.app/api?username=vodiylik&show_icons=true&theme=default)
 
 Here are some ideas to get you started:
 
