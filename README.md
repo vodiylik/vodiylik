@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?username=vodiylik&color=green)
+![](https://komarev.com/ghpvc/?username=vodiylik&color=blue)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
