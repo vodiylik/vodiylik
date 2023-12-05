@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@vodiylik](https://t.me/vodiylik) on telegram
 - 😄 Pronouns: r00t, vodiylik, Shukrulloh
 - ⚡ Fun fact: What is sleep?
+
+<a href="https://github.com/vodiylik">
+  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true" alt="Current Spotify Song">
+</a>
