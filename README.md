@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/vodiylik">
   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=dark" alt="Current Spotify Song">
 </a>
-
-
-![Latest listened songs](https://spotify-recently-played-readme.vercel.app/api?user=31o5x6ihks3vfmpzaugrpvw5x7ee)
