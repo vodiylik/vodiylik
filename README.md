@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: What is sleep?
 
 <a href="https://github.com/vodiylik">
-  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=dark" alt="Current Spotify Song">
+  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=dark&spin=1" alt="Current Spotify Song">
 </a>
