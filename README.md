@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![vodiylik's github stats](https://github-readme-stats.vercel.app/api?username=vodiylik&show_icons=true&theme=default)
+![vodiylik's github stats](https://github-readme-stats.vercel.app/api?username=vodiylik&show_icons=true&theme=cobalt)
 
 Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?username=vodiylik&color=blue)
+![](https://komarev.com/ghpvc/?username=vodiylik&color=blue&theme=onedark)
 
 - 🔭 I’m currently working on Muxlisa AI
 - 🌱 I’m currently learning DevOps, AI/ML
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: What is sleep?
 
 <a href="https://github.com/vodiylik">
-  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true" alt="Current Spotify Song">
+  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=dark" alt="Current Spotify Song">
 </a>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5x6ihks3vfmpzaugrpvw5x7ee" alt="Shukrullo Turgunov's Spotify" />
